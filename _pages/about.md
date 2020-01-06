@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Postdoctoral researcher in machine learning - Women Techmakers Ambassador & Google Dev Group Lead"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
