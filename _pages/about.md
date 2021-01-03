@@ -22,6 +22,9 @@ Research interests
 Education
 ---
 🎓 Postdoctoral fellow (2019-) Université de Montréal
+
 🎓 Postdoctoral fellow (2018-2019) Université du Québec à Montréal / Ségic and Inc.
+
 🎓 PhD in Computer Science (2012-2018) Université du Québec à Montréal
+
 🎓 MSc in Computer Science (2010-2012) Université du Québec à Montréal
