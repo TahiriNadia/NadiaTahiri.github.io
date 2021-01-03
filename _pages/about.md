@@ -1,8 +1,6 @@
 ---
 permalink: /
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
   overlay_image: /assets/images/genetics-bioinformatics.jpg
 title: "Postdoctoral researcher in machine learning - Women Techmakers Ambassador & Google Dev Group Lead"
 excerpt: "About me"
