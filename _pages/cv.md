@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+🎓 Postdoctoral fellow (2019-) Université de Montréal
+
+🎓 Postdoctoral fellow (2018-2019) Université du Québec à Montréal / Ségic and Inc.
+
+🎓 PhD in Computer Science (2012-2018) Université du Québec à Montréal
+
+🎓 MSc in Computer Science (2010-2012) Université du Québec à Montréal
+
 
 Work experience
 ======
