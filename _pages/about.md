@@ -1,7 +1,7 @@
 ---
 permalink: /
 header:
-  overlay_image: /assets/images/genetics-bioinformatics.jpg
+  teaser: /assets/images/genetics-bioinformatics.jpg
 title: "Postdoctoral researcher in machine learning - Women Techmakers Ambassador & Google Dev Group Lead"
 excerpt: "About me"
 author_profile: true
