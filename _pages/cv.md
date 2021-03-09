@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-🎓 Postdoctoral fellow (2019-) Université de Montréal - 🇨🇦 🌍 :flag-fr: 
+🎓 Postdoctoral fellow (2019-) Université de Montréal - 🇨🇦 🌍 <p class="institution"><span class="flag-icon flag-icon-ca"></span> <em>McGill University, Canada</em></p>
 
 🎓 Postdoctoral fellow (2018-2019) Université du Québec à Montréal / Ségic and Inc. - 🇨🇦
 
