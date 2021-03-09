@@ -12,14 +12,15 @@ redirect_from:
 Education
 ======
 
-🎓 Postdoctoral fellow (2018-) Université de Montréal
+🎓 Postdoctoral fellow (2018-) Université de Montréal - :canada:
 
-🎓 Postdoctoral fellow (2017-2018) Université du Québec à Montréal / Ségic and Inc.
+🎓 Postdoctoral fellow (2017-2018) Université du Québec à Montréal / Ségic and Inc. - 🇨🇦
 
-🎓 PhD in Computer Science (2012-2017) Université du Québec à Montréal
+🎓 PhD in Computer Science (2012-2017) Université du Québec à Montréal - 🇨🇦 
 
-🎓 MSc in Computer Science (2010-2012) Université du Québec à Montréal
+🎓 MSc in Computer Science (2010-2012) Université du Québec à Montréal - 🇨🇦
 
+🎓 MSc in Computer Science (2007-2008) Université de Paris XI-Sud (Orsay) - 🇫🇷
 
 Work experience
 ======
