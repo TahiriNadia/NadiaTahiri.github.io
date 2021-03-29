@@ -12,11 +12,13 @@ redirect_from:
 About Me
 ---
 
-Nadia Tahiri, PhD is a Postdoctoral Researcher in Machine Learning at Center for Public Health Research, Montreal, Department of Occupational and Environmental Health, School of Public Health, Université de Montréal. Her research interests are in the field of Deep Learning, particularly in classification understanding, preprocessing healthcare and medical images. Nadia obtained her doctorate degree from the University of Quebec at Montreal in 2018 with her thesis titled "Bioinformatics algorithms for consensus tree reconstruction and multiple super-trees". She is the recipient of several awards and scholarships. She is also interested in consumer and general behavior prediction problems.
+Dr. Nadia Tahiri is finalizing her postdoctoral research in machine learning at the University of Montreal. His research interests are in the field of deep learning, in particular in the application of AI in public health, the development of new algorithms, and diagnostic diseases from medical image processing. Nadia obtained her doctorate in computer science from the University of Quebec in Montreal in 2018. She is the recipient of several awards and scholarships. She is in the process of setting up her own research laboratory for her position as an Assistant Professor in University of Sherbrooke. Nadia is also very involved in community initiatives that promote women in technology and make AI more inclusive as an active member of ACM Canadian Celebration of Women In Computing, ambassador of Women Techmakers Montreal, and organizer of GDG Montreal.
 
 Research interests
 ---
 - Prediction learning, exploration and representation learning in heathcare domain;
+- Phylogeny;
+- Phylogeography;
 - Classification and optimization;
 - Vizualisation and interpretation.
 
